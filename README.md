@@ -1,4 +1,4 @@
-[View Image](https://github.com/AparaviSoftware/GithubHackNight/blob/main/images/GitHubHackNight.jpg)
+![GitHub Hack Night](https://github.com/AparaviSoftware/GithubHackNight/blob/main/images/GitHubHackNight.jpg)
 
 # GithubHackNight Repository
 
