@@ -20,6 +20,11 @@ Welcome to the GithubHackNight repository! This repository contains all the nece
 - **QuickStartGuide_WeaviateIntegration.ipynb**: Guide for integrating with the Weaviate vector database.
 - **SingleAgentChallenge.ipynb**: Tasks and setup guide focused on single-agent systems.
 
+### Aparavi Software Downloads
+
+- **Windows**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EcM7T7lk4oFCijyfVmc98wABhQrX55VA9QIw16d1bBUATQ?e=4fFbcS
+- **MacOS**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EYISrSPs0nhCkXNqjb1KSoMBmL5Y2H_tFLxm3VdvP5_5yg?e=vE2y7S
+
 ### Miscellaneous
 
 - **landscape_Twitter_post_-_8.avif**: An image file used within the documentation.
