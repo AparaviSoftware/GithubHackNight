@@ -1,3 +1,5 @@
+[View Image](https://github.com/YourGitHubUsername/GithubHackNight/blob/main/images/landscape_Twitter_post_-_8.avif)
+
 # GithubHackNight Repository
 
 Welcome to the GithubHackNight repository! This repository contains all the necessary materials and guides to help participants tackle the HackNight Challenges. Whether you are setting up environments, integrating with various platforms, or deploying nodes, this repository serves as your starting point.
