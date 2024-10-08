@@ -22,12 +22,12 @@ Welcome to the GithubHackNight repository! This repository contains all the nece
 
 ### Aparavi Software Downloads
 
-- **Windows**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EcM7T7lk4oFCijyfVmc98wABhQrX55VA9QIw16d1bBUATQ?e=4fFbcS
+- **Windows**: https://pkg.aparavi.com/artifactory/slot-devpreview/setup-aparavi-data-ia-2.18.0-23211.exe
 - **MacOS**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EYISrSPs0nhCkXNqjb1KSoMBmL5Y2H_tFLxm3VdvP5_5yg?e=vE2y7S
 
 ### Miscellaneous
 
-- **landscape_Twitter_post_-_8.avif**: An image file used within the documentation.
+- [**Example Data Set for solving the challenges **An image file used within the documentation.](https://aparavi-my.sharepoint.com/personal/joe_maionchi_aparavi_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjoe%5Fmaionchi%5Faparavi%5Fcom%2FDocuments%2FEvents%2FSF%20Hack%20Night%202024%2DOCT%2D08%2Fdataset&ct=1728426654578&or=Teams%2DHL&ga=1&LOF=1)
 
 ## Getting Started
 
