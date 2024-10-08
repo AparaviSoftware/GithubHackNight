@@ -1,4 +1,4 @@
-[View Image](https://github.com/YourGitHubUsername/GithubHackNight/blob/main/images/landscape_Twitter_post_-_8.avif)
+[View Image](https://github.com/AparaviSoftware/GithubHackNight/blob/main/images/GitHubHackNight.jpg)
 
 # GithubHackNight Repository
 
