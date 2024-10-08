@@ -22,7 +22,7 @@ Welcome to the GithubHackNight repository! This repository contains all the nece
 
 ### Aparavi Software Downloads
 
-- **Windows**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EcM7T7lk4oFCijyfVmc98wABhQrX55VA9QIw16d1bBUATQ?e=4fFbcS
+- **Windows**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EekC1HobC_pDi_2VtAhtulQBUkgfwXvPbX2uzy9psa5vWA?e=lyQ6lG
 - **MacOS**: https://aparavi-my.sharepoint.com/:u:/p/joe_maionchi/EYISrSPs0nhCkXNqjb1KSoMBmL5Y2H_tFLxm3VdvP5_5yg?e=vE2y7S
 
 ### Miscellaneous
