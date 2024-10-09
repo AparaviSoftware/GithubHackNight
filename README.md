@@ -1,5 +1,11 @@
 ![GitHub Hack Night](https://github.com/AparaviSoftware/GithubHackNight/blob/main/images/GitHubHackNight.jpg)
 
+# PRICES TO WIN !!! 
+
+1. Solve the Multi-Agent Challenge
+
+# --------------------
+
 # GithubHackNight Repository
 
 Welcome to the GithubHackNight repository! This repository contains all the necessary materials and guides to help participants tackle the HackNight Challenges. Whether you are setting up environments, integrating with various platforms, or deploying nodes, this repository serves as your starting point.
@@ -27,7 +33,7 @@ Welcome to the GithubHackNight repository! This repository contains all the nece
 
 ### Miscellaneous
 
-- [**Example Data Set for solving the challenges **An image file used within the documentation.](https://aparavi-my.sharepoint.com/personal/joe_maionchi_aparavi_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjoe%5Fmaionchi%5Faparavi%5Fcom%2FDocuments%2FEvents%2FSF%20Hack%20Night%202024%2DOCT%2D08%2Fdataset&ct=1728426654578&or=Teams%2DHL&ga=1&LOF=1)
+- [**Example Data Set for solving the challenges**](https://drive.google.com/drive/folders/1ZJGnsWw64Z1edZZkzGUZXkENJD2lo6as?usp=sharing)
 
 ## Getting Started
 
