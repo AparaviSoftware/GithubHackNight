@@ -2,7 +2,8 @@
 
 # PRICES TO WIN !!! 
 
-1. Solve the Multi-Agent Challenge
+1. Solve the Multi-Agent Challenge ($100 Amazon Gift Card + $100 Cash)
+2. Build something cool and show it to us ($100 Cash)
 
 # --------------------
 
